@@ -1,0 +1,12 @@
+E:\VS-Projects\TriangleType\TriangleTypeDetector\bin\Debug\net5.0\TriangleTypeDetector.deps.json
+E:\VS-Projects\TriangleType\TriangleTypeDetector\bin\Debug\net5.0\TriangleTypeDetector.dll
+E:\VS-Projects\TriangleType\TriangleTypeDetector\bin\Debug\net5.0\ref\TriangleTypeDetector.dll
+E:\VS-Projects\TriangleType\TriangleTypeDetector\bin\Debug\net5.0\TriangleTypeDetector.pdb
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.csproj.AssemblyReference.cache
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.AssemblyInfoInputs.cache
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.AssemblyInfo.cs
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.csproj.CoreCompileInputs.cache
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.dll
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\ref\TriangleTypeDetector.dll
+E:\VS-Projects\TriangleType\TriangleTypeDetector\obj\Debug\net5.0\TriangleTypeDetector.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleType", "TriangleType\TriangleType.csproj", "{5D414128-27D2-41EE-98EA-BBD534119C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTypeDetector", "TriangleTypeDetector\TriangleTypeDetector.csproj", "{9A589810-F371-437C-8470-C8C81CC11A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTypeDetectorTests", "TriangleTypeDetectorTests\TriangleTypeDetectorTests.csproj", "{2F722506-2C63-47AA-9229-CB22941BE6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D414128-27D2-41EE-98EA-BBD534119C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D414128-27D2-41EE-98EA-BBD534119C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D414128-27D2-41EE-98EA-BBD534119C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D414128-27D2-41EE-98EA-BBD534119C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A589810-F371-437C-8470-C8C81CC11A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A589810-F371-437C-8470-C8C81CC11A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A589810-F371-437C-8470-C8C81CC11A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A589810-F371-437C-8470-C8C81CC11A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F722506-2C63-47AA-9229-CB22941BE6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F722506-2C63-47AA-9229-CB22941BE6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F722506-2C63-47AA-9229-CB22941BE6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F722506-2C63-47AA-9229-CB22941BE6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB016ED-D858-46FF-8A6C-187DB1494D2F}
+	EndGlobalSection
+EndGlobal
